@@ -1,0 +1,4 @@
+{
+  "mongoURI": "Paste URI here",
+  "jwtSecret": "Secret"
+}
